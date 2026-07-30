@@ -10,8 +10,7 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         table = {}
         for i, n in enumerate(nums):
-            diff = target - n
-            if diff in table:
-                return [table[diff], i]
+            res = target - n
+            if res in table:
+                return [table[res], i]
             table[n] = i
-        
