@@ -11,7 +11,7 @@
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2086712605/) | 🟢 Easy | `Python3` | Jul 29, 2026 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Python3` | Jul 30, 2026 |
 
 ---
-*Last updated: Wed, 29 Jul 2026 21:22:29 GMT*
+*Last updated: Thu, 30 Jul 2026 20:11:53 GMT*
