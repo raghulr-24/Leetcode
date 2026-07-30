@@ -4,7 +4,7 @@
 #  Difficulty : Easy
 #  Language : Python3
 #  Runtime  : 0 ms
-#  Memory   : 19.4 MB
+#  Memory   : 19.3 MB
 #  Solved   : July 30, 2026
 # ═══════════════════════════════════════════════════════
 
@@ -14,6 +14,6 @@ class Solution:
         for i, n in enumerate(nums):
             diff = target - n
             if diff in table:
-                return [table[i], n]
-        table[i] = n
+                return [table[diff], i]
+            table[n] = i
         
