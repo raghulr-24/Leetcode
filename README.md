@@ -12,7 +12,7 @@
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Python3` | Jul 30, 2026 |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `chooseatype` | Jul 30, 2026 |
+
 
 ---
 *Last updated: Thu, 30 Jul 2026 20:21:26 GMT*
