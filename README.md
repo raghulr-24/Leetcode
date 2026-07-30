@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-2-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-1-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
