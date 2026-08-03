@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0153. Find Minimum in Rotated Sorted Array
-//  URL      : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+//  URL      : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 2, 2026
+//  Solved   : August 3, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution:
