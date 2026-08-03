@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0033. Search in Rotated Sorted Array
-//  URL      : https://leetcode.com/problems/search-in-rotated-sorted-array/
+//  URL      : https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2093213250/
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : August 2, 2026
+//  Solved   : August 3, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution:
