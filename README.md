@@ -17,8 +17,8 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?difficulty=EASY&page=1) | 🟡 Medium | `Python3` | Aug 1, 2026 |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | `Python3` | Aug 2, 2026 |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2093213250/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
-| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | `chooseatype` | Aug 2, 2026 |
+| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | 🟡 Medium | `chooseatype` | Aug 3, 2026 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2091303046/) | 🟡 Medium | `Python3` | Aug 2, 2026 |
 
 ---
-*Last updated: Mon, 03 Aug 2026 21:10:45 GMT*
+*Last updated: Mon, 03 Aug 2026 21:11:06 GMT*
